@@ -21,7 +21,7 @@ In this challenge, the goal is to convert raw planetary data into a readable and
 - [x] Properly used `<th>` for row and column headers
 - [x] Used `rowspan` and `colspan` to logically group rows (e.g. Terrestrial vs. Jovian planets)
 - [x] Ensured semantic use of header cells for accessibility (using `scope` where appropriate)
-- [x] Applied a black border to the planet name column (as requested)
+- [x] Applied a black border to the planet name column.
 - [x] Did **not** use `<thead>` and `<tbody>` — structure kept simple and readable
 
 ## 💡 Key Notes
