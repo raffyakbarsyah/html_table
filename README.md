@@ -8,10 +8,10 @@ In this challenge, the goal is to convert raw planetary data into a readable and
 
 ## 🗂️ Files Included
 
-- `blank-template.html` — Starter HTML file provided in the challenge
-- `minimal-table.css` — Minimal CSS to style the table
-- `planets-data.txt` — Raw data used to construct the table
-- `index.html` — ✅ Final completed HTML file with the structured table
+- `blank-template.html` 
+- `minimal-table.css`
+- `planets-data.txt` 
+- `index.html` 
 
 ## ✅ Completed Tasks
 
