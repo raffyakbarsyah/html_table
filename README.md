@@ -34,7 +34,6 @@ In this challenge, the goal is to convert raw planetary data into a readable and
 ## 🔗 References
 
 - [MDN Challenge Description](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
-- [Live Example on MDN](https://mdn.github.io/learning-area/html/tables/structuring-a-table/)
 
 ---
 
