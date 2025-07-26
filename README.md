@@ -29,8 +29,7 @@ In this challenge, the goal is to convert raw planetary data into a readable and
 - The first cell in the header row is left **blank** and spans **two columns**
 - Group row headers like “Jovian planets” use `rowspan` to span vertically
 - Planet names are placed in the first column using `<th scope="row">`
-- Accessibility is supported through appropriate use of `scope` attributes
-
+- Accessibility is supported through appropriate use of `scope`
 ## 🔗 References
 
 - [MDN Challenge Description](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
