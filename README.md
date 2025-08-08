@@ -4,7 +4,7 @@ This project is a solution to the [Structuring a Planet Data Table](https://deve
 
 ## 📘 Overview
 
-In this challenge, the goal is to convert raw planetary data into a readable and accessible HTML table. The context is educational, to help students easily explore the key facts about the planets in our solar system.
+In this challenge, the goal is to convert raw planetary data into a readable and accessible HTML table. The context is educational, to help students easily explore and understanding the key facts about the planets in our solar system.
 
 ## 🗂️ Files Included
 
