@@ -1,6 +1,6 @@
 # 🌍 Planet Data Table 
 
-This project is a solution to the [Structuring a Planet data Table](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data) challenge from MDN Web Docs.
+This project is a solution to the [Structuring a Planet Data Table](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data) challenge from MDN Web Docs.
 
 ## 📘 Overview
 
